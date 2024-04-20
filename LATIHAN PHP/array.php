@@ -6,7 +6,7 @@ $b = [
     "umur" => 7,
     "nilai" => "d",
     "hobi" => [
-        "tidur", "duduk", "rebahan"
+        "tidur", "duduk", "rebahan","mancing","makan"
     ]
 
 ]; 
